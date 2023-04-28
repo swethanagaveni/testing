@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T17:55:01 IST" name="Default suite" finished-at="2023-04-25T17:55:09 IST" duration-ms="8423">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T17:55:01 IST" name="Default test" finished-at="2023-04-25T17:55:09 IST" duration-ms="8423">
+      <class name="selenium_project.Advancedreports">
+        <test-method is-config="true" signature="generatereports()[pri:0, instance:selenium_project.Advancedreports@2d1ef81a]" started-at="2023-04-25T17:55:01 IST" name="generatereports" finished-at="2023-04-25T17:55:01 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatereports -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium_project.Advancedreports@2d1ef81a]" started-at="2023-04-25T17:55:01 IST" name="setup" finished-at="2023-04-25T17:55:06 IST" duration-ms="5228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase1()[pri:0, instance:selenium_project.Advancedreports@2d1ef81a]" started-at="2023-04-25T17:55:06 IST" name="testcase1" finished-at="2023-04-25T17:55:06 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium_project.Advancedreports@2d1ef81a]" started-at="2023-04-25T17:55:06 IST" name="setup" finished-at="2023-04-25T17:55:08 IST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase2()[pri:0, instance:selenium_project.Advancedreports@2d1ef81a]" started-at="2023-04-25T17:55:08 IST" name="testcase2" finished-at="2023-04-25T17:55:08 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium_project.Advancedreports@2d1ef81a]" started-at="2023-04-25T17:55:08 IST" name="teardown" finished-at="2023-04-25T17:55:09 IST" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium_project.Advancedreports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
